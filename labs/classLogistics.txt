@@ -1,0 +1,9 @@
+1.) My name is Graziella Lorion.
+2.) I still do not have a partner for programming assignments.
+2.a.) I do not have a partner.
+3.)I still did not reach to slack channel to find a partner. I am new and I prefer have a partner assigned to me.
+4.) I will be using personal computer for the assignments.
+4.a.) I already have Visual Studio Code installed in my personal computer.
+4.a.i) I did set up the environment.
+4.a.i.1) I have the dev environment installed already. "I, Graziella Lorion, acknoledge that I have installed Visual Studio Code in my personal computer."
+
